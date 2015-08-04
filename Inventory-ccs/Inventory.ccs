@@ -1,0 +1,57 @@
+<Solution>
+  <PropertyGroup Name="Inventory" Version="2.3.0.1" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="Common">
+          <Image Name="Cn01.png" />
+          <Image Name="Cn02.png" />
+          <Image Name="Cn03.png" />
+          <Image Name="Cn04.png" />
+          <Image Name="Cn05.png" />
+          <Image Name="Cn06.png" />
+          <Image Name="Cn07.png" />
+          <Image Name="Cn08.png" />
+          <Image Name="Cn09.png" />
+          <Image Name="Cn10.png" />
+          <Image Name="Cn11.png" />
+          <Image Name="Cn12.png" />
+          <Image Name="Cn14.png" />
+          <Image Name="Cn15.png" />
+        </Folder>
+        <Folder Name="DifficultySelection">
+          <Image Name="DS15.png" />
+          <Image Name="DS16.png" />
+        </Folder>
+        <Folder Name="Inventory">
+          <Image Name="BaB14.png" />
+          <Image Name="BaB148.png" />
+          <Image Name="BaB149.png" />
+          <Image Name="BaB15.png" />
+          <Image Name="BaB151.png" />
+          <Image Name="BaB159.png" />
+          <Image Name="BaB161.png" />
+          <Image Name="BaB17.png" />
+          <Image Name="BaB18.png" />
+          <Image Name="BaB77.png" />
+          <Image Name="charalockedbg.png" />
+          <Image Name="ic_egyviper_blue.png" />
+          <Image Name="rolebg.png" />
+        </Folder>
+        <Project Name="Inventory.csd" Type="Layer" />
+        <Project Name="InventoryItem.csd" Type="Layer" />
+        <Project Name="MainScene.csd" Type="Scene" />
+        <Folder Name="MissionSelect">
+          <PlistImageFolder PListFile="fx_starshining.plist" Name=".fx_starshining_PList.Dir">
+            <PlistImageFile Name="fx_starshining_cell-bong_light.png" Key="fx_starshining_cell-bong_light.png" />
+            <PlistImageFile Name="fx_starshining_cell-bong_light_light.png" Key="fx_starshining_cell-bong_light_light.png" />
+            <PlistImageFile Name="fx_starshining_cell-dian.png" Key="fx_starshining_cell-dian.png" />
+            <PlistImageFile Name="fx_starshining_cell-g07_00000.png" Key="fx_starshining_cell-g07_00000.png" />
+            <PlistImageFile Name="fx_starshining_cell-xingxing.png" Key="fx_starshining_cell-xingxing.png" />
+            <PlistImageFile Name="fx_starshining_cell-xingxing1.png" Key="fx_starshining_cell-xingxing1.png" />
+          </PlistImageFolder>
+        </Folder>
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>
